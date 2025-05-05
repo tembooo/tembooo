@@ -24,7 +24,30 @@ I'm passionate about artificial intelligence and machine learning, and I’m con
 
 I'm fluent in English (TOEFL iBT 100) and am actively learning Finnish (A1 level). I believe in collaboration and continuous growth – I'm always open to new opportunities and love to learn something new every day. Feel free to reach out or collaborate on a project – I'm friendly, technically curious, and always eager to share knowledge and learn from others!
 
+Arman Golbidi
+
 Thanks from → [Eetu Knutars](https://github.com/knuutti) and this [DURBAR HORE PARTHA](https://github.com/Durbarhp)
+<h2>📡 Social Media</h2>
+
+  <a href="https://www.linkedin.com/in/armangolbidi/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24" height="24" alt="LinkedIn" />
+    LinkedIn
+  </a>
+
+  <a href="https://www.instagram.com/armangolbidi/?hl=en" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="24" height="24" alt="Instagram" />
+    Instagram
+  </a>
+
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="24" height="24" alt="YouTube" />
+    YouTube
+  </a>
+
+  <a href="https://t.me/ArmanGolbidi" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="24" height="24" alt="Telegram" />
+    Telegram
+  </a>
 
 
 ---
