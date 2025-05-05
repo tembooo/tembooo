@@ -14,9 +14,15 @@
 
 ---
 ## About me
-I'm a first year Master's student in Data-Centric Engineering, majoring in Applied Matchematics. In my studies, I familiarize myself with artificial intelligence and machine learning, the processing of large datasets, modeling uncertainty, as well as computational and statistical methods. 
+About Me
 
-I graduated as B.Sc in Computational Engineering in August 2024. I minored in Software Engineering and love to do my own projects and participate in programming challenges. I usually code in Python or MATLAB, but I have also some experience with C, C#, Java, Lua and Javascript.
+Hi there! I'm Arman Golbidi, a Master's student in Data-Centric Engineering at LUT University (2024–2026). My concentration is in computer vision and pattern recognition, where I'm exploring how AI can interpret and learn from visual data. I earned my B.Sc. in Computer Software Engineering from Islamic Azad University of Isfahan with a GPA of 19.40/20, which gave me a strong foundation in software development and ignited my passion for data-driven problem solving.
+
+Professionally, I have a diverse background in both data engineering and software/hardware development. I’m currently working part-time as a Data Engineer at Valueqon Oy, where I contribute to data analytics projects using Microsoft Azure, Power BI, and Qlik Sense. Before moving to Finland, I spent several years at Iran Broadcasting (IRIB) as a Software/Electrical Engineer. At IRIB, I developed broadcast software in C# (with WPF) and PHP, maintained studio hardware and AV equipment, and even designed web front-ends and back-ends (HTML/CSS and WordPress). These experiences have made me proficient in a range of technologies, including Python, MATLAB, C#, PHP, and more.
+
+I'm passionate about artificial intelligence and machine learning, and I’m continuously expanding my skills in these areas. I've earned multiple Codecademy certifications – for example, the Machine Learning/AI Engineer and Natural Language Processing Specialist career path certificates – which reflect my commitment to learning in AI and data science. I also co-authored a research publication on using lightweight convolutional neural networks to improve IoT security by detecting botnet attacks. In my free time, I enjoy tackling coding challenges and building personal projects to experiment with new ideas and technologies. This not only keeps my problem-solving sharp, but also keeps me up-to-date on emerging tech trends.
+
+I'm fluent in English (TOEFL iBT 100) and am actively learning Finnish (A1 level). I believe in collaboration and continuous growth – I'm always open to new opportunities and love to learn something new every day. Feel free to reach out or collaborate on a project – I'm friendly, technically curious, and always eager to share knowledge and learn from others!
 
 ---
 ## My Projects
