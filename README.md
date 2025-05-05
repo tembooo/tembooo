@@ -64,12 +64,42 @@ Here are some of the bigger projects I've worked with. Some of the projects are 
 | single shot detector | This project demonstrates real-time object detection using the Single Shot Detector (SSD) algorithm with both Caffe and TensorFlow models. SSD is a deep learning–based method that detects objects in a single forward pass, making it highly efficient for applications like live object recognition through a webcam. You can switch between COCO (90 classes) and Caffe (20 classes) model formats, enabling wide flexibility in use cases such as person detection, vehicle recognition, and indoor object classification. | [single shot detector](https://github.com/tembooo/6.single-shot-detector-SSD) | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> | 
 | deeplearning in Digital image processing | This project explores the performance differences between various deep learning architectures for image classification using the MNIST dataset. The goal is to compare CNN and MLP models with and without regularization techniques like Batch Normalization and Dropout. Through experimentation with five separate model architectures, this repository showcases how architectural choices affect model accuracy and generalization on handwritten digit recognition tasks. | [deeplearning in Digital image processing](https://github.com/tembooo/7.deeplearninginDigital-image-processing) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" width="40" height="40"/> | 
 
+### Pattern Recognition and Machine Learning
+| Title | Description | Repository | Tools |
+| ----- | ----------- | ---------- | ----- |
+| ImageProcessing | Utilizing image processing techniques for sports broadcasting applications. In this repository, I've developed Python scripts employing methods such as Haar cascades, Viola-Jones algorithms, and advanced machine learning approaches like HOG and CNN for face and emotion detection. The project integrates datasets from Kaggle to identify and analyze user emotions in real-time video and static images. | [ImageProcessing]( https://github.com/tembooo/1.ImageProcessing) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 
 | Sly Cooper Practice Tools | PS3 & RPCS3 memory editing tool for Sly Cooper speedrun practice and casual use. The C# framework originates from Ratchet and Clank community | [SluMAN](https://github.com/knuutti/SluMAN) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> | 
+
+
+
 | Advent of Code | My solutions for the annual coding challenge Advent of Code. The challenges test general problem solving skills as well as the use of data structures and algorithms. | [advent-of-code](https://github.com/knuutti/advent-of-code) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | | Advent of Code | My solutions for the annual coding challenge Advent of Code. The challenges test general problem solving skills as well as the use of data structures and algorithms. | [advent-of-code](https://github.com/knuutti/advent-of-code) |  |
 | YouTube Video Retimer | Developing a video retimer for YouTube videos that can be used for determining lengths of certain segments in the video without having to download the video. In this project I implemented `tkinter` library in order to build a desktop application with clean GUI. | [retime-tool](https://github.com/knuutti/retime-tool) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | 
 | Custom Bingo Board | 5x5 bingo board with custom tiles. This project was done for an online event for Sly Cooper speedrunning community. | [slygolds-bingo-board](https://github.com/knuutti/slygolds-bingo-board) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> | 
