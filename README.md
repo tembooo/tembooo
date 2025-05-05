@@ -53,12 +53,12 @@ Thanks from → [Eetu Knutars](https://github.com/knuutti) and this [DURBAR HORE
 ---
 ## My Projects
 Here are some of the bigger projects I've worked with. Some of the projects are done for my studies and some for my own interests.
-### Hobby Projects
+### Image processing and Computer vision
 | Title | Description | Repository | Tools |
 | ----- | ----------- | ---------- | ----- |
 | ImageProcessing | Utilizing image processing techniques for sports broadcasting applications. In this repository, I've developed Python scripts employing methods such as Haar cascades, Viola-Jones algorithms, and advanced machine learning approaches like HOG and CNN for face and emotion detection. The project integrates datasets from Kaggle to identify and analyze user emotions in real-time video and static images. | [ImageProcessing]( https://github.com/tembooo/1.ImageProcessing) | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>| 
-| ImageProcessing | Utilizing image processing techniques for sports broadcasting applications. In this repository, I've developed Python scripts employing methods such as Haar cascades, Viola-Jones algorithms, and advanced machine learning approaches like HOG and CNN for face and emotion detection. The project integrates datasets from Kaggle to identify and analyze user emotions in real-time video and static images. | [coffee-bot](https://github.com/knuutti/coffee-bot/tree/master) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> | 
-
+| Gender and age | This project applies real-time image processing techniques to detect gender and age groups from live webcam feeds and static images. Designed for use in broadcast environments, it helps identify the demographic attributes of individuals — including characters who have died in movies — based on visual input. | [Gender and age](https://github.com/tembooo/2.GendersAndAges) | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> | 
+| Face Recognition | This project uses HOG-based feature extraction and the face_recognition library to identify known individuals in both static images and live webcam video. It was designed to recognize the faces of familiar people — such as colleagues or celebrities — by comparing them to a preloaded image database. | [Face Recognition]( https://github.com/tembooo/3.Face-Recognition) | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> | 
 
 
 
