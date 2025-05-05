@@ -24,7 +24,8 @@ I'm passionate about artificial intelligence and machine learning, and I’m con
 
 I'm fluent in English (TOEFL iBT 100) and am actively learning Finnish (A1 level). I believe in collaboration and continuous growth – I'm always open to new opportunities and love to learn something new every day. Feel free to reach out or collaborate on a project – I'm friendly, technically curious, and always eager to share knowledge and learn from others!
 
-thanks from --> [coffee-bot]([https://github.com/knuutti/coffee-bot/tree/master](https://github.com/knuutti/))
+Thanks from → [Eetu Knutars](https://github.com/knuutti) and this [DURBAR HORE PARTHA](https://github.com/Durbarhp)
+
 
 ---
 ## My Projects
@@ -32,9 +33,17 @@ Here are some of the bigger projects I've worked with. Some of the projects are 
 ### Hobby Projects
 | Title | Description | Repository | Tools |
 | ----- | ----------- | ---------- | ----- |
-| Utilizing image processing techniques for sports broadcasting applications. In this repository, I've developed Python scripts employing methods such as Haar cascades, Viola-Jones algorithms, and advanced machine learning approaches like HOG and CNN for face and emotion detection. The project integrates datasets from Kaggle to identify and analyze user emotions in real-time video and static images. | [coffee-bot](https://github.com/knuutti/coffee-bot/tree/master) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> | 
+| ImageProcessing | Utilizing image processing techniques for sports broadcasting applications. In this repository, I've developed Python scripts employing methods such as Haar cascades, Viola-Jones algorithms, and advanced machine learning approaches like HOG and CNN for face and emotion detection. The project integrates datasets from Kaggle to identify and analyze user emotions in real-time video and static images. | [ImageProcessing]( https://github.com/tembooo/1.ImageProcessing) | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>| 
+| ImageProcessing | Utilizing image processing techniques for sports broadcasting applications. In this repository, I've developed Python scripts employing methods such as Haar cascades, Viola-Jones algorithms, and advanced machine learning approaches like HOG and CNN for face and emotion detection. The project integrates datasets from Kaggle to identify and analyze user emotions in real-time video and static images. | [coffee-bot](https://github.com/knuutti/coffee-bot/tree/master) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> | 
+
+
+
+
+
+
+
 | Sly Cooper Practice Tools | PS3 & RPCS3 memory editing tool for Sly Cooper speedrun practice and casual use. The C# framework originates from Ratchet and Clank community | [SluMAN](https://github.com/knuutti/SluMAN) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> | 
-| Advent of Code | My solutions for the annual coding challenge Advent of Code. The challenges test general problem solving skills as well as the use of data structures and algorithms. | [advent-of-code](https://github.com/knuutti/advent-of-code) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | 
+| Advent of Code | My solutions for the annual coding challenge Advent of Code. The challenges test general problem solving skills as well as the use of data structures and algorithms. | [advent-of-code](https://github.com/knuutti/advent-of-code) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | | Advent of Code | My solutions for the annual coding challenge Advent of Code. The challenges test general problem solving skills as well as the use of data structures and algorithms. | [advent-of-code](https://github.com/knuutti/advent-of-code) |  |
 | YouTube Video Retimer | Developing a video retimer for YouTube videos that can be used for determining lengths of certain segments in the video without having to download the video. In this project I implemented `tkinter` library in order to build a desktop application with clean GUI. | [retime-tool](https://github.com/knuutti/retime-tool) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | 
 | Custom Bingo Board | 5x5 bingo board with custom tiles. This project was done for an online event for Sly Cooper speedrunning community. | [slygolds-bingo-board](https://github.com/knuutti/slygolds-bingo-board) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> | 
 
