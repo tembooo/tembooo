@@ -39,7 +39,7 @@ Thanks from → [Eetu Knutars](https://github.com/knuutti) and this [DURBAR HORE
     Instagram
   </a>
 
-  <a href="https://www.youtube.com/" target="_blank">
+  <a href="https://www.youtube.com/@armangolbidi" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="24" height="24" alt="YouTube" />
     YouTube
   </a>
